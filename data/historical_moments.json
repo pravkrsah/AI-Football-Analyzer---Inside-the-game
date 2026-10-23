@@ -1,0 +1,182 @@
+[
+  {
+    "id": "HM001",
+    "match": "Manchester City vs QPR, 2012-05-13",
+    "minute": 93,
+    "description": "Aguero scores a dramatic injury-time goal to win the Premier League title for Manchester City in the most breathtaking finale in league history.",
+    "event_type": "goal",
+    "tags": ["last-minute", "title-winner", "comeback", "injury-time", "iconic"],
+    "significance": "Aguero93: Premier League title won in stoppage time"
+  },
+  {
+    "id": "HM002",
+    "match": "Liverpool vs Arsenal, 1989-05-26",
+    "minute": 91,
+    "description": "Michael Thomas scores in the last minute of the last game of the season to hand Arsenal the league title on goal difference at Anfield.",
+    "event_type": "goal",
+    "tags": ["last-minute", "title-winner", "historic", "anfield"],
+    "significance": "Arsenal win title at Anfield in the final seconds"
+  },
+  {
+    "id": "HM003",
+    "match": "Manchester United vs Bayern Munich, 1999-05-26",
+    "minute": 91,
+    "description": "Teddy Sheringham equalises in injury time for Manchester United, pulling them level in the Champions League Final.",
+    "event_type": "goal",
+    "tags": ["comeback", "champions-league", "injury-time", "equaliser"],
+    "significance": "Start of the greatest comeback in European football"
+  },
+  {
+    "id": "HM004",
+    "match": "Manchester United vs Bayern Munich, 1999-05-26",
+    "minute": 93,
+    "description": "Ole Gunnar Solskjaer taps in to complete the most dramatic comeback in Champions League Final history, winning the treble for United.",
+    "event_type": "goal",
+    "tags": ["comeback", "champions-league", "winner", "injury-time", "treble"],
+    "significance": "Solskjaer wins the Champions League in the last minute"
+  },
+  {
+    "id": "HM005",
+    "match": "Arsenal vs Leicester City, 2004-04-25",
+    "minute": 64,
+    "description": "Arsenal secure the Premier League title at Highbury without losing a single game all season, completing the Invincibles campaign.",
+    "event_type": "celebration",
+    "tags": ["invincibles", "unbeaten", "title", "historic", "arsenal"],
+    "significance": "Arsenal confirmed Invincibles — unbeaten entire 38-game season"
+  },
+  {
+    "id": "HM006",
+    "match": "Liverpool vs AC Milan, 2005-05-25",
+    "minute": 54,
+    "description": "Steven Gerrard heads home to begin Liverpool's incredible comeback from 3-0 down at half time in the Champions League Final in Istanbul.",
+    "event_type": "goal",
+    "tags": ["comeback", "champions-league", "gerrard", "istanbul", "miracle"],
+    "significance": "Istanbul Miracle begins — Gerrard header starts 3-goal comeback"
+  },
+  {
+    "id": "HM007",
+    "match": "Chelsea vs Manchester City, 2012-04-18",
+    "minute": 52,
+    "description": "Fernando Torres rounds the goalkeeper and finishes coolly as Chelsea produce a stunning counter-attack at the Nou Camp in the Champions League semifinal.",
+    "event_type": "goal",
+    "tags": ["counter-attack", "champions-league", "torres", "nou-camp"],
+    "significance": "Torres goal caps stunning Chelsea counter-attack at Nou Camp"
+  },
+  {
+    "id": "HM008",
+    "match": "Tottenham vs Manchester City, 2019-04-09",
+    "minute": 72,
+    "description": "Son Heung-min scores a stunning solo goal to put Tottenham ahead at the Etihad in a pulsating Champions League quarter-final.",
+    "event_type": "goal",
+    "tags": ["solo-goal", "champions-league", "son", "etihad", "quarter-final"],
+    "significance": "Son's solo run and finish in dramatic CL quarter-final"
+  },
+  {
+    "id": "HM009",
+    "match": "Manchester City vs Real Madrid, 2023-05-17",
+    "minute": 90,
+    "description": "Manchester City concede an injury-time equaliser to Real Madrid at the Etihad, capping a breathless Champions League semifinal second leg.",
+    "event_type": "goal",
+    "tags": ["injury-time", "champions-league", "real-madrid", "etihad", "semifinal"],
+    "significance": "Real Madrid's famous injury-time equaliser at Etihad"
+  },
+  {
+    "id": "HM010",
+    "match": "Leicester City vs Manchester United, 2016-09-24",
+    "minute": 83,
+    "description": "Jamie Vardy scores his 11th consecutive Premier League game, breaking Ruud van Nistelrooy's record with a thunderous finish.",
+    "event_type": "goal",
+    "tags": ["record", "vardy", "consecutive-scoring", "premier-league"],
+    "significance": "Vardy breaks consecutive scoring record — 11 games in a row"
+  },
+  {
+    "id": "HM011",
+    "match": "Arsenal vs Tottenham, 2004-11-13",
+    "minute": 87,
+    "description": "Patrick Vieira is sent off in a feisty North London Derby as Arsenal's 49-game unbeaten run finally comes to an end.",
+    "event_type": "red_card",
+    "tags": ["derby", "unbeaten-run", "red-card", "north-london-derby"],
+    "significance": "Red card ends Arsenal's unbeaten run in the North London Derby"
+  },
+  {
+    "id": "HM012",
+    "match": "Manchester City vs Arsenal, 2023-04-26",
+    "minute": 45,
+    "description": "Arsenal go in at half time 4-1 down at the Etihad, effectively ending their Premier League title challenge in a crushing first-half capitulation.",
+    "event_type": "half_time",
+    "tags": ["collapse", "title-race", "etihad", "half-time", "arsenal"],
+    "significance": "Arsenal title hopes crushed after 4-1 half-time deficit at Etihad"
+  },
+  {
+    "id": "HM013",
+    "match": "Newcastle vs Arsenal, 2023-05-22",
+    "minute": 78,
+    "description": "Bukayo Saka cuts inside and curls a magnificent effort into the top corner, capping a brilliant individual performance.",
+    "event_type": "goal",
+    "tags": ["saka", "curler", "top-corner", "individual-brilliance"],
+    "significance": "Saka curls one into the top corner with trademark left foot"
+  },
+  {
+    "id": "HM014",
+    "match": "Manchester City vs Aston Villa, 2022-05-22",
+    "minute": 76,
+    "description": "Ilkay Gundogan scores twice in five minutes as Manchester City come from 2-0 down to win 3-2 and clinch the Premier League title.",
+    "event_type": "goal",
+    "tags": ["comeback", "title-winner", "gundogan", "last-day", "aston-villa"],
+    "significance": "Gundogan brace seals stunning last-day title comeback for City"
+  },
+  {
+    "id": "HM015",
+    "match": "Erling Haaland vs Wolves, 2023-01-22",
+    "minute": 63,
+    "description": "Erling Haaland scores his 25th Premier League goal of the season — the fastest any player has reached 25 goals in a single top-flight campaign.",
+    "event_type": "goal",
+    "tags": ["haaland", "record", "25-goals", "fastest", "premier-league"],
+    "significance": "Haaland reaches 25 PL goals faster than any player in history"
+  },
+  {
+    "id": "HM016",
+    "match": "Arsenal vs Manchester City, 2022-01-01",
+    "minute": 55,
+    "description": "Bukayo Saka wins a penalty after a clumsy challenge. Arsenal's high press forces the error from deep inside City's defensive third.",
+    "event_type": "penalty",
+    "tags": ["press", "penalty", "saka", "high-press", "tactical"],
+    "significance": "Arsenal's high press wins penalty — tactical masterclass from Arteta"
+  },
+  {
+    "id": "HM017",
+    "match": "Manchester City vs Liverpool, 2022-04-10",
+    "minute": 94,
+    "description": "Kevin De Bruyne fires a long-range thunderbolt to equalise for City against Liverpool in the Champions League quarter-final second leg.",
+    "event_type": "goal",
+    "tags": ["de-bruyne", "long-range", "equaliser", "champions-league", "thunder"],
+    "significance": "De Bruyne's 94th minute thunderbolt stuns Liverpool"
+  },
+  {
+    "id": "HM018",
+    "match": "Arsenal vs Manchester City, 2023-02-15",
+    "minute": 88,
+    "description": "Kevin De Bruyne delivers a whipped cross from the right and Erling Haaland rises above Gabriel to head home the winner for City.",
+    "event_type": "goal",
+    "tags": ["header", "cross", "de-bruyne", "haaland", "late-winner"],
+    "significance": "De Bruyne-Haaland combination delivers late winner at Emirates"
+  },
+  {
+    "id": "HM019",
+    "match": "Arsenal vs Tottenham, 2023-09-24",
+    "minute": 89,
+    "description": "Arsenal score in the dying minutes from a set-piece routine they had clearly worked on in training, catching Tottenham completely off guard.",
+    "event_type": "goal",
+    "tags": ["set-piece", "derby", "late-winner", "north-london-derby", "corner"],
+    "significance": "Practised set-piece wins north London derby in dying minutes"
+  },
+  {
+    "id": "HM020",
+    "match": "Manchester City vs Arsenal, 2024-03-31",
+    "minute": 70,
+    "description": "Phil Foden receives the ball in a tight pocket between Arsenal's midfield lines, turns brilliantly and plays a through-ball splitting the defence.",
+    "event_type": "assist",
+    "tags": ["foden", "through-ball", "tight-space", "build-up", "tactical"],
+    "significance": "Foden's genius through-ball splits Arsenal's defensive block"
+  }
+]

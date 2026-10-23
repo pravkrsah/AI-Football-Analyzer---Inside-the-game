@@ -1,0 +1,29 @@
+# ── Secrets — NEVER commit ──────────────────────────────────────────────
+.env
+*.key
+
+# ── Python ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ── Virtual environment ─────────────────────────────────────────────────
+venv313/
+venv/
+.venv/
+
+# ── Generated / runtime data ────────────────────────────────────────────
+logs/
+data/embeddings_cache.json
+
+# ── Large media (host the demo on YouTube/Vimeo instead) ────────────────
+*.avi
+*.mp4
+*.wav
+
+# ── OS / editor ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

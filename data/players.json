@@ -1,0 +1,36 @@
+{
+  "Manchester City": [
+    {"id": "MC01", "name": "Ederson",         "position": "GK", "number": 31},
+    {"id": "MC02", "name": "Kyle Walker",      "position": "RB", "number": 2},
+    {"id": "MC03", "name": "Ruben Dias",       "position": "CB", "number": 3},
+    {"id": "MC04", "name": "Manuel Akanji",    "position": "CB", "number": 25},
+    {"id": "MC05", "name": "Josko Gvardiol",   "position": "LB", "number": 24},
+    {"id": "MC06", "name": "Rodri",            "position": "DM", "number": 16},
+    {"id": "MC07", "name": "Kevin De Bruyne",  "position": "CM", "number": 17},
+    {"id": "MC08", "name": "Bernardo Silva",   "position": "CM", "number": 20},
+    {"id": "MC09", "name": "Phil Foden",       "position": "AM", "number": 47},
+    {"id": "MC10", "name": "Jack Grealish",    "position": "LW", "number": 10},
+    {"id": "MC11", "name": "Erling Haaland",   "position": "ST", "number": 9},
+    {"id": "MC12", "name": "Matheus Nunes",    "position": "CM", "number": 27},
+    {"id": "MC13", "name": "Jeremy Doku",      "position": "RW", "number": 11},
+    {"id": "MC14", "name": "Stefan Ortega",    "position": "GK", "number": 18},
+    {"id": "MC15", "name": "Oscar Bobb",       "position": "RW", "number": 52}
+  ],
+  "Arsenal": [
+    {"id": "AR01", "name": "David Raya",          "position": "GK", "number": 22},
+    {"id": "AR02", "name": "Ben White",            "position": "RB", "number": 4},
+    {"id": "AR03", "name": "William Saliba",       "position": "CB", "number": 12},
+    {"id": "AR04", "name": "Gabriel Magalhaes",    "position": "CB", "number": 6},
+    {"id": "AR05", "name": "Oleksandr Zinchenko",  "position": "LB", "number": 35},
+    {"id": "AR06", "name": "Thomas Partey",        "position": "DM", "number": 5},
+    {"id": "AR07", "name": "Martin Odegaard",      "position": "AM", "number": 8},
+    {"id": "AR08", "name": "Declan Rice",          "position": "CM", "number": 41},
+    {"id": "AR09", "name": "Bukayo Saka",          "position": "RW", "number": 7},
+    {"id": "AR10", "name": "Leandro Trossard",     "position": "LW", "number": 19},
+    {"id": "AR11", "name": "Kai Havertz",          "position": "ST", "number": 29},
+    {"id": "AR12", "name": "Jorginho",             "position": "CM", "number": 20},
+    {"id": "AR13", "name": "Gabriel Martinelli",   "position": "LW", "number": 11},
+    {"id": "AR14", "name": "Karl Hein",            "position": "GK", "number": 31},
+    {"id": "AR15", "name": "Eddie Nketiah",        "position": "ST", "number": 14}
+  ]
+}
