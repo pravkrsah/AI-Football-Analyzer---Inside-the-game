@@ -80,8 +80,7 @@ curl -s http://localhost:8000/api/mcp/tools              # list tools over HTTP
 venv313\Scripts\python -m backend.mcp_server             # run as a stdio MCP server
 ```
 
-**Demo video:** <paste public YouTube/Vimeo link here>
-**Repository:** <paste public GitHub URL here>
+**Demo video:** https://youtu.be/yrcy3w02iDE
 
 ---
 

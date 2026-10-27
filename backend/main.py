@@ -110,7 +110,13 @@ class Handler(BaseHTTPRequestHandler):
 
             elif path.startswith("/static/"):
                 fname = path[len("/static/"):]
-                self.serve_file(os.path.join(FRONTEND_DIR, fname))
+                # prevent path traversal: resolved target must stay inside FRONTEND_DIR
+                base = os.path.realpath(FRONTEND_DIR)
+                target = os.path.realpath(os.path.join(base, fname))
+                if target == base or target.startswith(base + os.sep):
+                    self.serve_file(target)
+                else:
+                    self.send_json({"error": "Not found"}, 404)
 
             # SSE stream
             elif path == "/api/match/stream":
