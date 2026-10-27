@@ -81,7 +81,7 @@ venv313\Scripts\python -m backend.mcp_server             # run as a stdio MCP se
 ```
 
 **Demo video:** https://youtu.be/yrcy3w02iDE
-
+**GitHub URL** https://github.com/pravkrsah/AI-Football-Analyzer---Inside-the-game.git
 ---
 
 ## Submission checklist
